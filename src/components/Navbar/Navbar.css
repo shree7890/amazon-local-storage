@@ -1,0 +1,10 @@
+.menu a {
+  margin-right: 40px;
+  font-size: 20px;
+  color: blanchedalmond;
+  font-weight: 700;
+}
+.active {
+  border-bottom: 1px solid gray;
+  color: brown !important;
+}
